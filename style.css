@@ -1,0 +1,34 @@
+.navbar-brand{
+    color: #e2770b !important;
+}
+
+.nav-link{
+   color: white !important;
+}
+
+.search-button{
+   background-color: #e2770b !important;
+   color: white !important;
+   border: 1PX solid #e2770b !important;
+   border-radius: 5px;
+}
+
+.search-button:hover{
+    color: black !important;
+    background-color: white !important;
+    border: 1PX solid #ffffff !important;
+
+}
+
+.navbar-toggler{
+    color: #e2770b !important;
+}
+
+
+main{
+    margin: 30px;
+    padding: 60px;
+    text-align: center;
+    color: red !important;
+}
+
